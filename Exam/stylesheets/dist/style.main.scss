@@ -1,0 +1,1179 @@
+@media (min-width: 960px) {
+	.footer{		
+		border-top: 4px solid #ff4e50;		
+		.footer-wrap{
+			width: 90%;
+			height: 200px;
+			margin: 0 auto;
+			margin-top: 15px;
+			position: relative;
+			   
+			.title-urlaub{
+				position: absolute;
+				top: 20px;
+				left: 14%;
+				width: 142px;
+				height: 16px;
+				color: #ff4e50;
+				font-family: Montserrat;
+				font-size: 16px;
+				font-weight: 700;
+				text-transform: uppercase;
+				margin: 0 auto;
+				
+			}		
+			.partner{
+				position: absolute;
+				left: 44%;
+    			top: 20px;
+				width: 59px;
+				height: 25px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+			}
+			
+			.company{
+				position: absolute;
+				top: 20px;
+    			left: 32%;
+				width: 67px;
+				height: 13px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+			}
+			ul{
+				position: absolute;
+				top: 40px;
+    			left: 32%;
+				display: block;
+				margin: 0 auto;
+				width: 67px;
+				margin-top: 10px;
+				li{
+					color: #666;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+					line-height: 24px;
+					list-style-type: none;
+				}
+			}
+			.designed-by{
+				position: absolute;
+				top: 20px;
+    			right: 195px;
+				width: 79px;
+				height: 20px;
+				color: #ccc;
+				font-family: Montserrat;
+				font-size: 10px;
+				font-weight: 700;
+				text-transform: uppercase;
+				margin: 0 auto;
+			}
+			.logo{
+				position: absolute;
+				top: 40px;
+    			right: 195px;
+				display: block;
+				margin: 0 auto;
+				margin-bottom: 20px;
+			}
+		}
+	}
+};@media (max-width: 479px){
+	.footer{
+		border-top: 4px solid #ff4e50;	
+		.title-urlaub{
+		width: 142px;
+		height: 16px;
+		color: #ff4e50;
+		font-family: Montserrat;
+		font-size: 16px;
+		font-weight: 700;
+		text-transform: uppercase;
+		margin: 0 auto;
+		padding: 15px;
+		}
+		.company{
+			width: 67px;
+			height: 13px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			margin: 0 auto;
+		}
+		.partner{
+			width: 59px;
+			height: 25px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			margin: 5px auto;
+		}
+
+		.designed-by{
+			width: 79px;
+			height: 20px;
+			color: #ccc;
+			font-family: Montserrat;
+			font-size: 10px;
+			font-weight: 700;
+			text-transform: uppercase;
+			margin: 0 auto;
+		}
+		ul{
+			display: block;
+			margin: 0 auto;
+			width: 205px;
+			li{
+				display: inline-block;
+				/*width: 194px;
+				height: 14px;*/
+				color: #666;
+				font-family: Roboto;
+				font-size: 14px;
+				font-weight: 300;
+				line-height: 24px;
+				margin: 4px;
+				list-style-type: none;
+			}
+		}
+		.logo{
+			display: block;
+			margin: 0 auto;
+			margin-bottom: 20px;
+		}
+	}
+}
+
+;@media (min-width: 480px) and (max-width: 959px) {
+	.footer{		
+		border-top: 4px solid #ff4e50;		
+		.footer-wrap{
+			width: 90%;
+			height: 200px;
+			margin: 0 auto;
+			margin-top: 15px;
+			position: relative;
+			.title-urlaub{
+				position: absolute;
+				top: 20px;
+				left: 0px;
+				width: 142px;
+				height: 16px;
+				color: #ff4e50;
+				font-family: Montserrat;
+				font-size: 16px;
+				font-weight: 700;
+				text-transform: uppercase;
+				margin: 0 auto;
+				
+			}		
+			.partner{
+				position: absolute;
+				left: 57%;
+    			top: 20px;
+				width: 59px;
+				height: 25px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+			}
+			
+			.company{
+				position: absolute;
+				top: 20px;
+    			left: 32%;
+				width: 67px;
+				height: 13px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+			}
+			ul{
+				position: absolute;
+				top: 40px;
+    			left: 32%;
+				display: block;
+				margin: 0 auto;
+				width: 67px;
+				margin-top: 10px;
+				li{
+					color: #666;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+					line-height: 24px;
+					list-style-type: none;
+				}
+			}
+			.designed-by{
+				position: absolute;
+				top: 20px;
+    			right: 7px;
+				width: 79px;
+				height: 20px;
+				color: #ccc;
+				font-family: Montserrat;
+				font-size: 10px;
+				font-weight: 700;
+				text-transform: uppercase;
+				margin: 0 auto;
+			}
+			.logo{
+				position: absolute;
+				top: 40px;
+    			right: 7px;
+				display: block;
+				margin: 0 auto;
+				margin-bottom: 20px;
+			}
+		}
+	}
+};@media (min-width: 960px) {
+	.header{	
+		.holidayDreams{
+			background: url('../../img/Desktop/Vector-Smart Objecthjkhkjhk.jpg') no-repeat;			
+			height: 700px;
+			/*background-size: cover;*/
+			margin-bottom: 93px;
+
+			.hl-dreams{
+    			position: relative;
+    			width: 70%;
+    			height: 50px;
+    			margin: 0 auto;
+    			padding-top: 45px;
+    			
+				form{
+					position: absolute;					
+					width: 200px;					
+					right: 0px;	
+			
+					input{			
+						color: white;
+						font-family: Montserrat;
+						font-size: 14px;
+						font-weight: 700;			
+						width: 90px;
+						height: 36px;
+						background: rgba(255, 255, 255, 0.01);
+						border: 0px solid white;				
+					}
+				}
+				input:hover{
+					border: 2px solid white;
+					border-radius: 18px;
+				}				
+				.urlaubsgluck{
+					position: absolute;				
+					left: 0px;
+					width: 177px;
+					height: 20px;
+					margin: 0 auto;
+					color: white;
+					font-family: Montserrat;
+					font-size: 20px;
+					font-weight: 700;
+					text-transform: uppercase;
+					padding-left: 35px;
+				}
+			}
+			.holidayDreamstext{
+			    width: 542px;
+			    height: 150px;
+			    color: #fff;
+			    font-family: Montserrat,sans-serif;
+			    font-size: 52px;
+			    font-weight: 700;
+			    text-transform: uppercase;
+			    margin: 0 auto;
+			    text-align: center;	
+			    margin-top: 125px;
+			}
+			.perfectPartner{
+				width: 408px;
+				height: 24px;
+				color: white;
+				font-family: Roboto, sans-serif;
+				font-size: 24px;
+				font-weight: 300;
+				margin: 0 auto;	
+				margin-bottom: 40px;	
+			}
+			button{
+				width: 225px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+				color: white;
+				font-family: Montserrat, sans-serif;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+				display: block;
+			}		
+		}
+		.hu-works{
+			width: 290px;
+			height: 30px;
+			color: #333;
+			font-family: Montserrat, sans-serif;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0px auto;
+			margin-top: 20px;
+			margin-bottom: 32px;
+		}		
+	}
+	.howWorks{
+		width: 957px;
+    	margin: 0 auto;
+	}
+	.jcarousel-wrapper {
+    	float: left;
+    	margin-right: 9px;
+    	margin-left: 10px;
+	}
+};@media (max-width: 479px){
+	.header{	
+		.holidayDreams{
+			background: url('../../img/Mobile/SmartObject.png') no-repeat;			
+			height: 552px;
+			background-size: cover;
+			.hl-dreams{    			
+    			width: 65%;
+    			height: 187px;
+    			margin: 0 auto;
+    			padding-top: 21px;
+				form{
+					margin: 0 auto;
+					width: 200px;
+					input{			
+						color: white;
+						font-family: Montserrat;
+						font-size: 14px;
+						font-weight: 700;			
+						width: 84px;
+						height: 36px;
+						background: rgba(255, 255, 255, 0.01);
+						border: 0px solid white;									
+					}
+				}
+				input:hover{
+					border: 2px solid white;
+					border-radius: 18px;
+				}
+				.urlaubsgluck{
+					width: 177px;
+					height: 20px;
+					margin: 0 auto;
+					color: white;
+					font-family: Montserrat;
+					font-size: 20px;
+					font-weight: 700;
+					text-transform: uppercase;
+					margin-top: 113px;				
+				}
+			}
+			.holidayDreamstext{
+				width: 300px;
+				height: 70px;
+				margin: 12px auto;
+				color: white;
+				font-family: Montserrat;
+				font-size: 30px;
+				font-weight: 700;
+				text-transform: uppercase;
+				text-align: center;
+			}
+			.perfectPartner{
+				width: 220px;
+	    		height: 50px;
+				margin: 0 auto;
+				color: white;
+				font-family: Roboto;
+				font-size: 18px;
+				font-weight: 300;
+				text-align: center;
+			}
+			button{
+				margin: 10px auto;
+				color: white;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				width: 280px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+				display: block;
+			}		
+		}
+		.howWorks{
+			.hu-works{
+				width: 290px;
+				height: 30px;
+				color: #333;
+				font-family: Montserrat, sans-serif;
+				font-size: 22px;
+				font-weight: 700;
+				margin: 0px auto;
+				margin-top: 20px;
+				margin-bottom: 15px;
+
+
+			}
+			.HowWork1{
+				background: url("../../img/Mobile/HowWork1.png") 0 0 no-repeat;				
+				width: 260px;
+				height: 200px;
+				margin: 10px auto;
+				padding: 20px;
+				button{				
+					color: white;
+					font-family: Montserrat;
+					font-size: 10px;
+					font-weight: 400;
+					text-transform: uppercase;
+					width: 70px;
+					height: 20px;
+					background-color: #ff4e50;
+					border-radius: 10px;
+					margin-top: 48px;
+				}
+				.HowWork1text1{
+					width: 170px;
+					height: 49px;
+					color: white;
+					font-family: Montserrat;
+					font-size: 24px;
+					font-weight: 700;
+					margin-top: 15px;
+    				margin-bottom: 20px;
+				}
+				.HowWork1text2{
+					width: 265px;
+					height: 45px;
+					color: #ccc;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+				}
+			}
+			.HowWork2{
+				background: url("../../img/Mobile/HowWork2.png") 0 0 no-repeat;
+				width: 260px;
+				height: 200px;
+				margin: 10px auto;
+				padding: 20px;
+				button{				
+					color: white;
+					font-family: Montserrat;
+					font-size: 10px;
+					font-weight: 400;
+					text-transform: uppercase;
+					width: 70px;
+					height: 20px;
+					background-color: #ff4e50;
+					border-radius: 10px;
+					margin-top: 78px;
+				}
+				.HowWork1text1{
+					width: 210px;
+					height: 49px;
+					color: white;
+					font-family: Montserrat;
+					font-size: 24px;
+					font-weight: 700;
+					margin-top: 15px;
+    				margin-bottom: -6px;
+				}
+				.HowWork1text2{
+					width: 265px;
+					height: 45px;
+					color: #ccc;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+				}
+			}
+			.HowWork3{
+				background: url("../../img/Mobile/HowWork3.png") 0 0 no-repeat;
+				width: 260px;
+				height: 200px;
+				margin: 10px auto;
+				padding: 20px;
+				button{				
+					color: white;
+					font-family: Montserrat;
+					font-size: 10px;
+					font-weight: 400;
+					text-transform: uppercase;
+					width: 70px;
+					height: 20px;
+					background-color: #ff4e50;
+					border-radius: 10px;
+					margin-top: 51px;
+				}
+				.HowWork1text1{
+					width: 170px;
+					height: 49px;
+					color: white;
+					font-family: Montserrat;
+					font-size: 24px;
+					font-weight: 700;
+					margin-top: 13px;
+    				margin-bottom: 20px;
+				}
+				.HowWork1text2{
+					width: 265px;;
+					height: 45px;
+					color: #ccc;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+				}
+			}
+
+		}
+	}
+};@media (min-width: 480px) and (max-width: 959px) {
+	.header{	
+		.holidayDreams{
+			background: url('../../img/Tablet/SmartObject.png') no-repeat;						
+			height: 700px;
+			margin-bottom: 100px;
+    		/*background-size: cover; */  		
+    		.hl-dreams{
+    			position: relative;
+			    width: 86%;
+			    height: 50px;
+			    margin: 0px auto;
+			    padding-top: 50px;
+    			
+				form{
+					position: absolute;					
+					width: 200px;					
+					right: -34px;
+					top: 40px;				
+					input{			
+						color: white;
+						font-family: Montserrat;
+						font-size: 14px;
+						font-weight: 700;			
+						width: 90px;
+						height: 36px;
+						background: rgba(255, 255, 255, 0.01);
+						border: 0px solid white;
+					}
+				}
+				input:hover{
+					border: 2px solid white;
+					border-radius: 18px;
+				}
+				
+							
+				.urlaubsgluck{	
+					position: absolute;				
+					left: 0px;
+					width: 177px;
+					height: 20px;
+					margin: 0 auto;
+					color: white;
+					font-family: Montserrat;
+					font-size: 20px;
+					font-weight: 700;
+					text-transform: uppercase;
+				}
+			}
+			.holidayDreamstext{
+			    width: 514px;
+			    height: 70px;
+			    margin: 0 auto;
+			    color: #fff;
+			    font-family: Montserrat;
+			    font-size: 51px;
+			    font-weight: 700;
+			    text-transform: uppercase;
+			    text-align: center;
+			    margin-top: 121px;
+			}
+			.perfectPartner{
+			    width: 419px;
+			    height: 50px;
+			    margin: 0 auto;
+			    color: #fff;
+			    font-family: Roboto;
+			    font-size: 23px;
+			    font-weight: 300;
+			    text-align: center;
+			    padding-left: 80px;
+			    padding-right: 80px;
+			    padding-top: 80px;
+			    padding-bottom: 15px;
+			}
+			button{
+				margin: 0 auto;
+				color: white;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				width: 226px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+				display: block;							
+			}		
+		}
+		.hu-works{
+			width: 290px;
+			height: 30px;
+			color: #333;
+			font-family: Montserrat, sans-serif;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0px auto;
+			margin-top: 20px;
+			margin-bottom: 30px;
+		}
+		.howWorks{
+			width: 770px;
+			margin: 0 auto;			
+			.jcarousel-wrapper{
+				float: left;
+
+			}
+		}		
+	}
+   
+};@media (max-width: 479px) {
+	.wrapper{		
+	}
+
+	.header{
+		
+	}
+	.main{
+		margin-top: -30px; 
+	}
+};@media (min-width: 480px) {
+	.wrapper{
+		width: 100%;
+	
+	}
+
+	.header{
+		
+	}
+};@media (max-width: 479px){	
+	.grid-item{
+		width: 300px;
+		height: 120px;
+		margin: 5px auto;
+		img{
+			width: 100%;
+		}
+		position: relative;
+	}
+	.masonry-container{
+		width: 300px;
+		margin: 0 auto;
+		margin-bottom: 30px;
+		
+	}
+	/*.grid-item--width2 { width: 200px; 
+		height: 400px;}*/
+	.titleRes{
+		position: absolute;
+		top:50px;
+		left:130px;
+		color: white;
+		font-family: Montserrat, sans-serif;
+		font-size: 22px;
+		font-weight: 700;		
+	}
+	.grid{
+		/*width: 300px;
+		height: 900px;*/
+	}		
+}
+
+@media (min-width: 480px) and (max-width: 959px) {
+	.grid-item{
+		width: 236px;
+		height: 310px;
+		/*margin: 5px auto;*/
+		margin: 5px;
+		float: left;
+		img{
+			width: 100%;
+		}
+	}
+	.masonry-container{
+		/*width: 100%;*/
+		width: 755px;
+		margin: 0 auto;
+	}
+	.grid-item--width2 { 
+		width: 482px; 
+		height: 310px;
+		margin: 5px;
+		float: left;
+		img{
+			width: 100%;
+		}
+	}
+	.titleRes{
+		position: absolute;
+		top:50px;
+		left:130px;
+		color: white;
+		font-family: Montserrat, sans-serif;
+		font-size: 22px;
+		font-weight: 700;
+	}
+	.grid{
+		/*width: 300px;
+		height: 900px;*/
+	}
+	
+	
+}
+
+@media (min-width: 960px) {
+	
+
+	.grid-item{
+		width: 300px;
+		height: 310px;
+		/*margin: 5px auto;*/
+		margin: 5px;
+		float: left;
+		img{
+			width: 100%;
+		}
+	}
+	.masonry-container{
+		/*width: 100%;*/
+		width: 960px;
+		margin: 0 auto;
+	}
+	.grid-item--width2 { 
+		width: 610px; 
+		height: 310px;
+		margin: 5px;
+		float: left;
+		img{
+			width: 100%;
+		}
+	}
+	.titleRes{
+		position: absolute;
+		top:50px;
+		left:130px;
+		color: white;
+		font-family: Montserrat, sans-serif;
+		font-size: 22px;
+		font-weight: 700;
+	}
+	.grid{
+		/*width: 300px;
+		height: 900px;*/
+	}	
+};@media (min-width: 960px) {
+	.meetPartner{
+		margin: 0 auto;
+		width: 1033px;
+		padding-top: 65px;
+		margin-bottom: 126px;
+
+		.bestHoliday{
+			width: 415px;
+			height: 39px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0 auto;
+			margin-top: 33px;
+
+		}
+		.firstPartner, .secondPartner, .thirdPartner, .fourthPartner{
+		    width: 220px;
+		    height: 260px;
+		    padding-left: 13px;
+    		padding-right: 21px;
+    		float: left;
+		    /*vertical-align: middle;*/
+			img{
+				display: block;
+				margin: 15px auto;
+			}
+			a{
+				width: 110px;
+				height: 14px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				text-decoration: none;
+			    display: block;
+			    margin: 10px auto;
+			}
+			p{
+				width: 203px;    		
+				color: #666;
+				font-family: Roboto;
+				font-size: 14px;
+				font-weight: 300;
+				text-align: center;
+	    		margin: 17px auto;
+			}
+		}
+
+		button{		
+			width: 192px;
+			height: 40px;
+			background-color: white;
+			border: 2px solid #ff4e50;
+			border-radius: 20px;
+			color: #ff4e50;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			display: block;
+			margin: 0 auto;
+		}				
+	}
+	.activity-ideas{
+		width: 95%;
+		margin: 0 auto;
+		.discover-ideas{
+			width: 360px;
+			height: 50px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0 auto;
+		}
+		.holiday-interests{
+			width: 295px;
+			height: 50px;
+			color: #333;
+			font-family: Roboto;
+			font-size: 18px;
+			font-weight: 300;
+			margin: 0 auto;
+		}
+		.inputClass{						
+			margin: 0 auto;
+			width: 440px;
+			.entry-field{
+				width: 240px;
+				height: 40px;
+				background-color: white;
+				border: 1px solid #ccc;
+				border-radius: 4px;
+				box-shadow: 0 1px 0 #eee;
+				padding-left: 10px;
+				float: left;
+			}
+			.button-submit{
+				color: white;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				width: 160px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+			
+			}
+		}
+	}
+};@media (max-width: 479px) {
+	.meetPartner{
+		.bestHoliday{
+			width: 260px;
+			height: 55px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 22px;
+			font-weight: 700;
+			margin-top: 33px;
+
+		}
+		.firstPartner{
+			margin-bottom: 10px;
+		}
+		.secondPartner{
+			margin-bottom: 24px;
+		} 
+		.thirdPartner{
+			margin-bottom: 24px;
+		} 
+		.fourthPartner{
+			/*margin-bottom: 10px;*/
+		}
+		img{
+			display: block;
+			margin: 0px auto;
+		}
+		a{
+			width: 110px;
+			height: 14px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			text-decoration: none;
+		    display: block;
+		    margin: 12px auto;
+		}
+		p{
+			width: 205px;    		
+			color: #666;
+			font-family: Roboto;
+			font-size: 14px;
+			font-weight: 300;
+			text-align: center;
+    		margin: 17px auto;
+		}
+
+		button{		
+			color: #ff4e50;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			width: 280px;
+			height: 40px;
+			background-color: white;
+			border: 2px solid #ff4e50;
+			border-radius: 20px;
+			margin: 32px auto;
+    		display: block;
+		}		
+	}
+
+	.activity-ideas{
+		width: 95%;
+		margin: 0 auto;
+		.discover-ideas{
+			width: 273px;
+			height: 50px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0 auto;
+			text-align: center;
+			margin-bottom: 15px;
+		}
+		.holiday-interests{
+			width: 282px;
+			color: #333;
+			font-family: Roboto;
+			font-size: 18px;
+			font-weight: 300;
+			margin: 0 auto;
+			margin-bottom: 10px;
+		}
+		.inputClass{
+			margin: 0 auto;
+			width: 285px;
+			/*.entry-field::-webkit-input-placeholder{
+				width: 119px;
+				height: 14px;
+				color: #999;
+				font-family: Roboto;
+				font-size: 14px;
+				font-weight: 300px;				
+			}*/
+
+			
+			.entry-field{
+				width: 270px;
+				height: 40px;
+				background-color: white;
+				border: 1px solid #ccc;
+				border-radius: 4px;
+				box-shadow: 0 1px 0 #eee;
+				margin-top: 5px;
+				margin-bottom: 10px;
+				padding-left: 10px;
+			}
+			
+			.button-submit{
+				color: white;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				width: 280px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+				margin-bottom: 39px;
+			}
+		}
+	}
+};@media (min-width: 480px) and (max-width: 959px){
+	.meetPartner{
+		margin: 0 auto;
+		width: 515px;
+		padding-top: 65px;
+		margin-bottom: 124px;
+
+		.bestHoliday{
+			width: 415px;
+			height: 39px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0 auto;
+			margin-top: 33px;
+
+		}
+		.firstPartner, .secondPartner, .thirdPartner, .fourthPartner{
+		    width: 220px;
+		    height: 260px;
+		    padding-left: 13px;
+    		padding-right: 21px;
+    		float: left;
+		    /*vertical-align: middle;*/
+			img{
+				display: block;
+				margin: 15px auto;
+			}
+			a{
+				width: 110px;
+				height: 14px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				text-decoration: none;
+			    display: block;
+			    margin: 10px auto;
+			}
+			p{
+				width: 203px;    		
+				color: #666;
+				font-family: Roboto;
+				font-size: 14px;
+				font-weight: 300;
+				text-align: center;
+	    		margin: 17px auto;
+			}
+		}
+
+		button{		
+			width: 192px;
+			height: 40px;
+			background-color: white;
+			border: 2px solid #ff4e50;
+			border-radius: 20px;
+			color: #ff4e50;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			display: block;
+			margin: 0 auto;
+		}				
+	}
+	.activity-ideas{
+		width: 95%;
+		margin: 0 auto;
+		.discover-ideas{
+			width: 360px;
+			height: 50px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0 auto;
+		}
+		.holiday-interests{
+			width: 295px;
+			height: 50px;
+			color: #333;
+			font-family: Roboto;
+			font-size: 18px;
+			font-weight: 300;
+			margin: 0 auto;
+		}
+		.inputClass{			
+			margin: 0 auto;
+			width: 440px;
+			margin-bottom: 50px;
+    		margin-top: 35px;
+		.entry-field{
+			width: 240px;
+			height: 40px;
+			background-color: white;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			box-shadow: 0 1px 0 #eee;
+			padding-left: 10px;
+			float: left;
+		}
+		.button-submit{
+			color: white;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			width: 160px;
+			height: 40px;
+			background-color: #ff4e50;
+			border-radius: 20px;
+		}
+		}
+		.masonry-container{
+			margin-bottom: 40px;
+		}
+	}
+};*{
+	margin: 0;
+	padding: 0;
+}
+
+.clearfix:after{
+	display: block;
+	content: '';
+	clear: both;
+	float: none;		 		
+}
+
+@media (max-width: 479px){
+	.hide_Tablet_Desktop{
+		visibility: hidden;
+		height: 0px;
+	}
+}
+@media (min-width: 480px) and (max-width: 959px) {
+	.hide_Mobile_Desktop{
+		visibility: hidden;
+		height: 0px;
+	}
+}
+@media (min-width: 960px) {
+	.hide_Mobile_Tablet{
+		visibility: hidden;
+		height: 0px;
+	}
+}

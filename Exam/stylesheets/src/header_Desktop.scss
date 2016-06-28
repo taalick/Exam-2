@@ -1,0 +1,106 @@
+@media (min-width: 960px) {
+	.header{	
+		.holidayDreams{
+			background: url('../../img/Desktop/Vector-Smart Objecthjkhkjhk.jpg') no-repeat;			
+			height: 700px;
+			/*background-size: cover;*/
+			margin-bottom: 93px;
+
+			.hl-dreams{
+    			position: relative;
+    			width: 70%;
+    			height: 50px;
+    			margin: 0 auto;
+    			padding-top: 45px;
+    			
+				form{
+					position: absolute;					
+					width: 200px;					
+					right: 0px;	
+			
+					input{			
+						color: white;
+						font-family: Montserrat;
+						font-size: 14px;
+						font-weight: 700;			
+						width: 90px;
+						height: 36px;
+						background: rgba(255, 255, 255, 0.01);
+						border: 0px solid white;				
+					}
+				}
+				input:hover{
+					border: 2px solid white;
+					border-radius: 18px;
+				}				
+				.urlaubsgluck{
+					position: absolute;				
+					left: 0px;
+					width: 177px;
+					height: 20px;
+					margin: 0 auto;
+					color: white;
+					font-family: Montserrat;
+					font-size: 20px;
+					font-weight: 700;
+					text-transform: uppercase;
+					padding-left: 35px;
+				}
+			}
+			.holidayDreamstext{
+			    width: 542px;
+			    height: 150px;
+			    color: #fff;
+			    font-family: Montserrat,sans-serif;
+			    font-size: 52px;
+			    font-weight: 700;
+			    text-transform: uppercase;
+			    margin: 0 auto;
+			    text-align: center;	
+			    margin-top: 125px;
+			}
+			.perfectPartner{
+				width: 408px;
+				height: 24px;
+				color: white;
+				font-family: Roboto, sans-serif;
+				font-size: 24px;
+				font-weight: 300;
+				margin: 0 auto;	
+				margin-bottom: 40px;	
+			}
+			button{
+				width: 225px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+				color: white;
+				font-family: Montserrat, sans-serif;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+				display: block;
+			}		
+		}
+		.hu-works{
+			width: 290px;
+			height: 30px;
+			color: #333;
+			font-family: Montserrat, sans-serif;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0px auto;
+			margin-top: 20px;
+			margin-bottom: 32px;
+		}		
+	}
+	.howWorks{
+		width: 957px;
+    	margin: 0 auto;
+	}
+	.jcarousel-wrapper {
+    	float: left;
+    	margin-right: 9px;
+    	margin-left: 10px;
+	}
+}

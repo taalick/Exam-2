@@ -1,0 +1,110 @@
+@media (min-width: 480px) and (max-width: 959px) {
+	.header{	
+		.holidayDreams{
+			background: url('../../img/Tablet/SmartObject.png') no-repeat;						
+			height: 700px;
+			margin-bottom: 100px;
+    		/*background-size: cover; */  		
+    		.hl-dreams{
+    			position: relative;
+			    width: 86%;
+			    height: 50px;
+			    margin: 0px auto;
+			    padding-top: 50px;
+    			
+				form{
+					position: absolute;					
+					width: 200px;					
+					right: -34px;
+					top: 40px;				
+					input{			
+						color: white;
+						font-family: Montserrat;
+						font-size: 14px;
+						font-weight: 700;			
+						width: 90px;
+						height: 36px;
+						background: rgba(255, 255, 255, 0.01);
+						border: 0px solid white;
+					}
+				}
+				input:hover{
+					border: 2px solid white;
+					border-radius: 18px;
+				}
+				
+							
+				.urlaubsgluck{	
+					position: absolute;				
+					left: 0px;
+					width: 177px;
+					height: 20px;
+					margin: 0 auto;
+					color: white;
+					font-family: Montserrat;
+					font-size: 20px;
+					font-weight: 700;
+					text-transform: uppercase;
+				}
+			}
+			.holidayDreamstext{
+			    width: 514px;
+			    height: 70px;
+			    margin: 0 auto;
+			    color: #fff;
+			    font-family: Montserrat;
+			    font-size: 51px;
+			    font-weight: 700;
+			    text-transform: uppercase;
+			    text-align: center;
+			    margin-top: 121px;
+			}
+			.perfectPartner{
+			    width: 419px;
+			    height: 50px;
+			    margin: 0 auto;
+			    color: #fff;
+			    font-family: Roboto;
+			    font-size: 23px;
+			    font-weight: 300;
+			    text-align: center;
+			    padding-left: 80px;
+			    padding-right: 80px;
+			    padding-top: 80px;
+			    padding-bottom: 15px;
+			}
+			button{
+				margin: 0 auto;
+				color: white;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				width: 226px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+				display: block;							
+			}		
+		}
+		.hu-works{
+			width: 290px;
+			height: 30px;
+			color: #333;
+			font-family: Montserrat, sans-serif;
+			font-size: 22px;
+			font-weight: 700;
+			margin: 0px auto;
+			margin-top: 20px;
+			margin-bottom: 30px;
+		}
+		.howWorks{
+			width: 770px;
+			margin: 0 auto;			
+			.jcarousel-wrapper{
+				float: left;
+
+			}
+		}		
+	}
+   
+}

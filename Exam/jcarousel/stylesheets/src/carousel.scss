@@ -1,0 +1,196 @@
+@media (min-width: 480px) and (max-width: 959px) {	
+	.step_1{
+		background: url('../../img//Tablet/HowWork1.png') no-repeat;
+		button{
+			margin-top: 45px;
+		}	
+		.HowWork1{						
+			width: 260px;
+			height: 200px;	
+			.HowWork1text2{
+				width: 227px;
+				height: 45px;				
+			}
+		}
+	}
+	.step_2{
+		background: url('../../img//Tablet/HowWork2.png') no-repeat;
+		button{			
+			margin-top: 70px;
+		}	
+		.HowWork2{				
+			width: 260px;
+			height: 200px;				
+			.HowWork1text2{
+				width: 224px;
+				height: 45px;				
+			}
+		}
+	}
+	.step_3{
+		background: url('../../img/Tablet/HowWork3.png') no-repeat;
+		button{			
+			margin-top: 38px;
+		}	
+		.HowWork3{									
+			width: 260px;
+			height: 200px;								
+			.HowWork1text2{
+				width: 224px;
+				height: 45px;				
+			}
+		}
+	}
+}
+
+@media (min-width: 960px) {		
+	
+	.step_1{
+		background: url('../../img/Desktop/HowWork1.png') no-repeat;
+		width: 300px;
+		height: 400px;
+		button{
+			margin-top: 66px;
+		}	
+		.HowWork1{						
+			width: 300px;
+			height: 400px;											
+			.HowWork1text2{
+				width: 260px;
+				height: 45px;				
+			}
+		}
+	}
+	.step_2{
+		background: url('../../img/Desktop/HowWork2.png') no-repeat;
+		width: 300px;
+		height: 400px;
+		button{
+			margin-top: 70px;
+		}
+		.HowWork2{				
+			width: 260px;
+			height: 200px;							
+			.HowWork1text2{
+				width: 210px;
+				height: 45px;				
+			}
+		}
+	}
+	.step_3{
+		background: url('../../img/Desktop/HowWork3.png') no-repeat;
+		width: 300px;
+		height: 400px;
+		button{
+			margin-top: 54px;
+		}
+		.HowWork3{									
+			width: 260px;
+			height: 200px;			
+			.HowWork1text2{
+				width: 260px;
+				height: 45px;				
+			}
+		}
+	}
+}
+
+.step_1{		
+	.HowWork1{				
+		margin: 147px auto;
+		padding: 20px;
+		button{				
+			color: white;
+			font-family: Montserrat;
+			font-size: 10px;
+			font-weight: 400;
+			text-transform: uppercase;
+			width: 70px;
+			height: 20px;
+			background-color: #ff4e50;
+			border-radius: 10px;			
+		}
+		.HowWork1text1{
+			width: 170px;
+			height: 49px;
+			color: white;
+			font-family: Montserrat;
+			font-size: 24px;
+			font-weight: 700;
+			margin-top: 13px;
+			margin-bottom: 20px;
+		}
+		.HowWork1text2{
+			color: #ccc;
+			font-family: Roboto;
+			font-size: 14px;
+			font-weight: 300;
+		}
+	}
+}
+.step_2{
+	.HowWork2{
+		margin: 170px auto;
+		padding: 20px;
+		button{				
+			color: white;
+			font-family: Montserrat;
+			font-size: 10px;
+			font-weight: 400;
+			text-transform: uppercase;
+			width: 70px;
+			height: 20px;
+			background-color: #ff4e50;
+			border-radius: 10px;
+		}
+		.HowWork1text1{
+			width: 215px;
+			height: 49px;
+			color: white;
+			font-family: Montserrat;
+			font-size: 24px;
+			font-weight: 700;
+			margin-top: 15px;
+			margin-bottom: -8px;
+		}
+		.HowWork1text2{
+			color: #ccc;
+			font-family: Roboto;
+			font-size: 14px;
+			font-weight: 300;
+		}
+	}
+}
+.step_3{
+	.HowWork3{
+		margin: 155px auto;
+		padding: 20px;
+		button{				
+			color: white;
+			font-family: Montserrat;
+			font-size: 10px;
+			font-weight: 400;
+			text-transform: uppercase;
+			width: 70px;
+			height: 20px;
+			background-color: #ff4e50;
+			border-radius: 10px;
+		}
+		.HowWork1text1{
+			width: 170px;
+			height: 49px;
+			color: white;
+			font-family: Montserrat;
+			font-size: 24px;
+			font-weight: 700;
+			margin-top: 12px;
+			margin-bottom: 20px;
+		}
+		.HowWork1text2{
+			color: #ccc;
+			font-family: Roboto;
+			font-size: 14px;
+			font-weight: 300;
+		}
+	}
+}

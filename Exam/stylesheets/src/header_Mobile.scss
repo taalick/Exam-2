@@ -1,0 +1,204 @@
+@media (max-width: 479px){
+	.header{	
+		.holidayDreams{
+			background: url('../../img/Mobile/SmartObject.png') no-repeat;			
+			height: 552px;
+			background-size: cover;
+			.hl-dreams{    			
+    			width: 65%;
+    			height: 187px;
+    			margin: 0 auto;
+    			padding-top: 21px;
+				form{
+					margin: 0 auto;
+					width: 200px;
+					input{			
+						color: white;
+						font-family: Montserrat;
+						font-size: 14px;
+						font-weight: 700;			
+						width: 84px;
+						height: 36px;
+						background: rgba(255, 255, 255, 0.01);
+						border: 0px solid white;									
+					}
+				}
+				input:hover{
+					border: 2px solid white;
+					border-radius: 18px;
+				}
+				.urlaubsgluck{
+					width: 177px;
+					height: 20px;
+					margin: 0 auto;
+					color: white;
+					font-family: Montserrat;
+					font-size: 20px;
+					font-weight: 700;
+					text-transform: uppercase;
+					margin-top: 113px;				
+				}
+			}
+			.holidayDreamstext{
+				width: 300px;
+				height: 70px;
+				margin: 12px auto;
+				color: white;
+				font-family: Montserrat;
+				font-size: 30px;
+				font-weight: 700;
+				text-transform: uppercase;
+				text-align: center;
+			}
+			.perfectPartner{
+				width: 220px;
+	    		height: 50px;
+				margin: 0 auto;
+				color: white;
+				font-family: Roboto;
+				font-size: 18px;
+				font-weight: 300;
+				text-align: center;
+			}
+			button{
+				margin: 10px auto;
+				color: white;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				width: 280px;
+				height: 40px;
+				background-color: #ff4e50;
+				border-radius: 20px;
+				display: block;
+			}		
+		}
+		.howWorks{
+			.hu-works{
+				width: 290px;
+				height: 30px;
+				color: #333;
+				font-family: Montserrat, sans-serif;
+				font-size: 22px;
+				font-weight: 700;
+				margin: 0px auto;
+				margin-top: 20px;
+				margin-bottom: 15px;
+
+
+			}
+			.HowWork1{
+				background: url("../../img/Mobile/HowWork1.png") 0 0 no-repeat;				
+				width: 260px;
+				height: 200px;
+				margin: 10px auto;
+				padding: 20px;
+				button{				
+					color: white;
+					font-family: Montserrat;
+					font-size: 10px;
+					font-weight: 400;
+					text-transform: uppercase;
+					width: 70px;
+					height: 20px;
+					background-color: #ff4e50;
+					border-radius: 10px;
+					margin-top: 48px;
+				}
+				.HowWork1text1{
+					width: 170px;
+					height: 49px;
+					color: white;
+					font-family: Montserrat;
+					font-size: 24px;
+					font-weight: 700;
+					margin-top: 15px;
+    				margin-bottom: 20px;
+				}
+				.HowWork1text2{
+					width: 265px;
+					height: 45px;
+					color: #ccc;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+				}
+			}
+			.HowWork2{
+				background: url("../../img/Mobile/HowWork2.png") 0 0 no-repeat;
+				width: 260px;
+				height: 200px;
+				margin: 10px auto;
+				padding: 20px;
+				button{				
+					color: white;
+					font-family: Montserrat;
+					font-size: 10px;
+					font-weight: 400;
+					text-transform: uppercase;
+					width: 70px;
+					height: 20px;
+					background-color: #ff4e50;
+					border-radius: 10px;
+					margin-top: 78px;
+				}
+				.HowWork1text1{
+					width: 210px;
+					height: 49px;
+					color: white;
+					font-family: Montserrat;
+					font-size: 24px;
+					font-weight: 700;
+					margin-top: 15px;
+    				margin-bottom: -6px;
+				}
+				.HowWork1text2{
+					width: 265px;
+					height: 45px;
+					color: #ccc;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+				}
+			}
+			.HowWork3{
+				background: url("../../img/Mobile/HowWork3.png") 0 0 no-repeat;
+				width: 260px;
+				height: 200px;
+				margin: 10px auto;
+				padding: 20px;
+				button{				
+					color: white;
+					font-family: Montserrat;
+					font-size: 10px;
+					font-weight: 400;
+					text-transform: uppercase;
+					width: 70px;
+					height: 20px;
+					background-color: #ff4e50;
+					border-radius: 10px;
+					margin-top: 51px;
+				}
+				.HowWork1text1{
+					width: 170px;
+					height: 49px;
+					color: white;
+					font-family: Montserrat;
+					font-size: 24px;
+					font-weight: 700;
+					margin-top: 13px;
+    				margin-bottom: 20px;
+				}
+				.HowWork1text2{
+					width: 265px;;
+					height: 45px;
+					color: #ccc;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+				}
+			}
+
+		}
+	}
+}

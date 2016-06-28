@@ -1,0 +1,89 @@
+@media (min-width: 480px) and (max-width: 959px) {
+	.footer{		
+		border-top: 4px solid #ff4e50;		
+		.footer-wrap{
+			width: 90%;
+			height: 200px;
+			margin: 0 auto;
+			margin-top: 15px;
+			position: relative;
+			.title-urlaub{
+				position: absolute;
+				top: 20px;
+				left: 0px;
+				width: 142px;
+				height: 16px;
+				color: #ff4e50;
+				font-family: Montserrat;
+				font-size: 16px;
+				font-weight: 700;
+				text-transform: uppercase;
+				margin: 0 auto;
+				
+			}		
+			.partner{
+				position: absolute;
+				left: 57%;
+    			top: 20px;
+				width: 59px;
+				height: 25px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+			}
+			
+			.company{
+				position: absolute;
+				top: 20px;
+    			left: 32%;
+				width: 67px;
+				height: 13px;
+				color: #333;
+				font-family: Montserrat;
+				font-size: 14px;
+				font-weight: 700;
+				margin: 0 auto;
+			}
+			ul{
+				position: absolute;
+				top: 40px;
+    			left: 32%;
+				display: block;
+				margin: 0 auto;
+				width: 67px;
+				margin-top: 10px;
+				li{
+					color: #666;
+					font-family: Roboto;
+					font-size: 14px;
+					font-weight: 300;
+					line-height: 24px;
+					list-style-type: none;
+				}
+			}
+			.designed-by{
+				position: absolute;
+				top: 20px;
+    			right: 7px;
+				width: 79px;
+				height: 20px;
+				color: #ccc;
+				font-family: Montserrat;
+				font-size: 10px;
+				font-weight: 700;
+				text-transform: uppercase;
+				margin: 0 auto;
+			}
+			.logo{
+				position: absolute;
+				top: 40px;
+    			right: 7px;
+				display: block;
+				margin: 0 auto;
+				margin-bottom: 20px;
+			}
+		}
+	}
+}

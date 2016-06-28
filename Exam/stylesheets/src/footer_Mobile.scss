@@ -1,0 +1,68 @@
+@media (max-width: 479px){
+	.footer{
+		border-top: 4px solid #ff4e50;	
+		.title-urlaub{
+		width: 142px;
+		height: 16px;
+		color: #ff4e50;
+		font-family: Montserrat;
+		font-size: 16px;
+		font-weight: 700;
+		text-transform: uppercase;
+		margin: 0 auto;
+		padding: 15px;
+		}
+		.company{
+			width: 67px;
+			height: 13px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			margin: 0 auto;
+		}
+		.partner{
+			width: 59px;
+			height: 25px;
+			color: #333;
+			font-family: Montserrat;
+			font-size: 14px;
+			font-weight: 700;
+			margin: 5px auto;
+		}
+
+		.designed-by{
+			width: 79px;
+			height: 20px;
+			color: #ccc;
+			font-family: Montserrat;
+			font-size: 10px;
+			font-weight: 700;
+			text-transform: uppercase;
+			margin: 0 auto;
+		}
+		ul{
+			display: block;
+			margin: 0 auto;
+			width: 205px;
+			li{
+				display: inline-block;
+				/*width: 194px;
+				height: 14px;*/
+				color: #666;
+				font-family: Roboto;
+				font-size: 14px;
+				font-weight: 300;
+				line-height: 24px;
+				margin: 4px;
+				list-style-type: none;
+			}
+		}
+		.logo{
+			display: block;
+			margin: 0 auto;
+			margin-bottom: 20px;
+		}
+	}
+}
+

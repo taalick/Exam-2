@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.clearfix:after{
+	display: block;
+	content: '';
+	clear: both;
+	float: none;		 		
+}
+
+@media (max-width: 479px){
+	.hide_Tablet_Desktop{
+		visibility: hidden;
+		height: 0px;
+	}
+}
+@media (min-width: 480px) and (max-width: 959px) {
+	.hide_Mobile_Desktop{
+		visibility: hidden;
+		height: 0px;
+	}
+}
+@media (min-width: 960px) {
+	.hide_Mobile_Tablet{
+		visibility: hidden;
+		height: 0px;
+	}
+}
